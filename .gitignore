@@ -6,4 +6,5 @@
 *.lib
 *.obj
 *.pdb
+*.zip
 tags
